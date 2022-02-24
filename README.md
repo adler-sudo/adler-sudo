@@ -1,5 +1,7 @@
 ## James Adler
 
+![linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
+
 ### About me
 
 I am a bioinformatics data scientist on a mission to eliminate cancer as we know it. I use machine learning and statistical techniques to extract meaningful insights from complex datasets in pursuit of improving the lives of people and patients.
