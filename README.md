@@ -1,4 +1,8 @@
-### Hi there 👋
+## James Adler
+
+### About me
+
+I am a bioinformatics data scientist on a mission to eliminate cancer as we know it. I use machine learning and statistical techniques to extract meaningful insights from complex datasets in pursuit of improving the lives of people and patients.
 
 <!--
 **adler-sudo/adler-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
