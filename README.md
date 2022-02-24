@@ -2,9 +2,9 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-palmer-adler)
 
-### About me
+### About
 
-I am a bioinformatics data scientist on a mission to eliminate cancer as we know it. I use machine learning and statistical techniques to extract meaningful insights from complex datasets in pursuit of improving the lives of people and patients.
+James Adler is a bioinformatics data scientist on a mission to eliminate cancer as we know it. He use machine learning and statistical techniques to extract meaningful insights from complex datasets in pursuit of improving the lives of people and patients.
 
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=adler-sudo&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
