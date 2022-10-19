@@ -4,7 +4,7 @@
 
 ### About
 
-James Adler is a bioinformatics data scientist on a mission to eliminate cancer as we know it. He uses machine learning and statistical techniques to extract meaningful insights from high-dimensional next generation sequencing (NGS) datasets in pursuit of improving the lives of people and patients.
+Enthusiastic bioinformatics data scientist fluent in Python, R, and Bash with 8+ years diverse industry experience. Highly skilled in a range of custom and open-source data science, statistical, and bioinformatics software packages and techniques. Demonstrated expertise in computational processing, analysis, interpretation, and presentation of high-dimensional, complex next generation sequencing datasets, including design of custom end-to-end pipelines for single cell analysis in cancer early detection. Experienced in leadership and project management, ranging from single department schedule coordination to complex cross-functional team problem solving and organization. 
 
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=adler-sudo&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/adler-sudo/github-readme-stats) 
 
